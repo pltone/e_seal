@@ -21,7 +21,7 @@
 				<key>bundle-identifier</key>
 				<string>io.dcloud.pltone_e_seal</string>
 				<key>title</key>
-				<string>电子签封</string>
+				<string>电子签封授权</string>
 			</dict>
 		</dict>
 	</array>
